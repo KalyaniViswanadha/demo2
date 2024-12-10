@@ -1,4 +1,4 @@
-# Which cable should I choose for the Vehicle Gateway?
+# Copy of Which cable should I choose for the Vehicle Gateway?
 
 **Audience:** Installers\
 **Applies To:** Vehicle Gateway, Cables

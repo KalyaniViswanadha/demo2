@@ -1,4 +1,4 @@
-# Installation Best Practices
+# Copy of Installation Best Practices
 
 **Audience:** Installation Professionals\
 **Applies To:** All hardware
@@ -68,5 +68,3 @@ This article contains Motive’s official installation policy and procedures for
 * Soldering
 
 > **Note:** Any connections made outside the vehicle should be waterproof. Use heat shrink butt connectors or posi tite connectors to ensure a secure and weather-resistant connection.
-
-testing

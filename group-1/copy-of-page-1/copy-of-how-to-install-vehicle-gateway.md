@@ -1,4 +1,4 @@
-# How to Install Vehicle Gateway
+# Copy of How to Install Vehicle Gateway
 
 ## Installation Requirements
 
